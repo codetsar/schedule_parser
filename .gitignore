@@ -1,0 +1,5 @@
+data/
+debug/
+target/
+Cargo.lock
+**/*.rs.bak
